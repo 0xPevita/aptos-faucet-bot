@@ -1,0 +1,8 @@
+{
+  "name": "aptos-faucet-bot",
+  "version": "1.0.0",
+  "description": "Automate APT token funding for Aptos testnet accounts",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "@aptos-labs/ts-sdk": "^1.33.1" }
+}
