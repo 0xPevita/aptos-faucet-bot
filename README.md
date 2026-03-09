@@ -24,3 +24,8 @@ node index.js generate 5
 ```
 
 ## Output
+✅ Funded 0x1234... → 1.00 APT (tx: 0xabc...)
+✅ Funded 0x5678... → 1.00 APT (tx: 0xdef...)
+
+## License
+MIT
